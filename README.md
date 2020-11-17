@@ -12,8 +12,8 @@ Note LeFisher depends on the following
 5. a ngrok account
 
 # Installation And Usage
-git clone https://github.com/Sir-Arthur56537/LeFisher.git
+```git clone https://github.com/Sir-Arthur56537/LeFisher.git
 cd LeFisher
-bash Lefisher.sh
+bash Lefisher.sh```
 
                                                                                               ,enjoy XD
