@@ -1,0 +1,6 @@
+IP: 127.0.0.1
+ User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0IP: 190.108.204.3
+ User-Agent: WhatsApp/2.20.199.14 AIP: 190.108.204.3
+ User-Agent: Mozilla/5.0 (Windows NT 10.0; rv:78.0) Gecko/20100101 Firefox/78.0IP: 190.108.205.1
+ User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0IP: 35.196.132.85
+ User-Agent: Mozilla/5.0 (compatible; Discordbot/2.0; +https://discordapp.com)

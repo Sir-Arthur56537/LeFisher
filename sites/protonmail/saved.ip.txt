@@ -1,0 +1,2 @@
+IP: 35.196.132.85
+ User-Agent: Mozilla/5.0 (compatible; Discordbot/2.0; +https://discordapp.com)

@@ -1,0 +1,3 @@
+IP: 35.196.132.85
+ User-Agent: Mozilla/5.0 (compatible; Discordbot/2.0; +https://discordapp.com)IP: 37.248.200.95
+ User-Agent: Mozilla/5.0 (Linux; Android 8.0.0; RNE-L21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Mobile Safari/537.36
