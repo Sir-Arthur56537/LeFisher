@@ -16,3 +16,4 @@ git clone https://github.com/Sir-Arthur56537/LeFisher.git
 cd LeFisher
 bash Lefisher.sh
 
+                                                                                              ,enjoy XD
